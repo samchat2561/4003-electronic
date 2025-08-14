@@ -5,7 +5,7 @@
             <div class="col-md-3">
                 <div class="card shadow p-2">
                     <div class="card-header p-0">
-                        <img src="https://rms.trattc.ac.th/files/98789_17031411113931.jpg" class="card-img-top" alt="img">
+                        <img src="https://rms.trattc.ac.th/files/53606_25081414142632.jpg" class="card-img-top" alt="img">
                     </div>
                     <div class="card-body text-center p-1">
                         <span class="card-title" style="color: #FF8C00; font-size: 18px;"><i
@@ -49,13 +49,13 @@
                                                 <a href="http://rms.trattc.ac.th/pms_graph.php?p=&people_dep_id=205&mod=&title=%CA%D2%A2%D2%C7%D4%AA%D2%AA%E8%D2%A7%CD%D4%E0%C5%E7%A1%B7%C3%CD%B9%D4%A1%CA%EC#data"
                                                     target="_blank" class="text-secondary font-weight-normal text-xs"
                                                     data-toggle="tooltip" data-original-title="Edit user">
-                                                    <img src="https://rms.trattc.ac.th/files/98789_17031411113931.jpg"
-                                                        class="avatar avatar-sm me-3">
+                                                    <img src="https://rms.trattc.ac.th/files/53606_25081414142632.jpg"
+                                                        class="avatar avatar-xl me-3">
                                                 </a>
 
                                             </div>
                                             <div class="d-flex flex-column justify-content-center">
-                                                <h6 class="mb-0 text-xs">นายชัยณรงค์ ประสิทธานันท์</h6>
+                                                <h6 class="mb-0 text-xs">นายอนันต์ มีสรรพวงศ์</h6>
                                                 <p class="text-xs text-secondary mb-0">john@creative-tim.com</p>
                                             </div>
                                         </div>
@@ -86,8 +86,8 @@
                                                 <a href="http://rms.trattc.ac.th/pms_graph.php?p=&people_dep_id=205&mod=&title=%CA%D2%A2%D2%C7%D4%AA%D2%AA%E8%D2%A7%CD%D4%E0%C5%E7%A1%B7%C3%CD%B9%D4%A1%CA%EC#data"
                                                     target="_blank" class="text-secondary font-weight-normal text-xs"
                                                     data-toggle="tooltip" data-original-title="Edit user">
-                                                    <img src="https://rms.trattc.ac.th/files/98789_17031411113553.jpg"
-                                                        class="avatar avatar-sm me-3">
+                                                    <img src="https://rms.trattc.ac.th/files/53606_25081415151142.jpg"
+                                                        class="avatar avatar-xl me-3">
                                                 </a>
 
                                             </div>
@@ -123,8 +123,8 @@
                                                 <a href="http://rms.trattc.ac.th/pms_graph.php?p=&people_dep_id=205&mod=&title=%CA%D2%A2%D2%C7%D4%AA%D2%AA%E8%D2%A7%CD%D4%E0%C5%E7%A1%B7%C3%CD%B9%D4%A1%CA%EC#data"
                                                     target="_blank" class="text-secondary font-weight-normal text-xs"
                                                     data-toggle="tooltip" data-original-title="Edit user">
-                                                    <img src="https://rms.trattc.ac.th/files/98789_17031411114204.jpg"
-                                                        class="avatar avatar-sm me-3">
+                                                    <img src="https://rms.trattc.ac.th/files/53606_25081415152543.jpg"
+                                                        class="avatar avatar-xl me-3">
                                                 </a>
 
                                             </div>
@@ -160,8 +160,8 @@
                                                 <a href="http://rms.trattc.ac.th/pms_graph.php?p=&people_dep_id=205&mod=&title=%CA%D2%A2%D2%C7%D4%AA%D2%AA%E8%D2%A7%CD%D4%E0%C5%E7%A1%B7%C3%CD%B9%D4%A1%CA%EC#data"
                                                     target="_blank" class="text-secondary font-weight-normal text-xs"
                                                     data-toggle="tooltip" data-original-title="Edit user">
-                                                    <img src="https://rms.trattc.ac.th/files/98789_17031411113819.jpg"
-                                                        class="avatar avatar-sm me-3">
+                                                    <img src="https://rms.trattc.ac.th/files/53606_25081414145421.jpg"
+                                                        class="avatar avatar-xl me-3">
                                                 </a>
 
                                             </div>
@@ -197,8 +197,8 @@
                                                 <a href="http://rms.trattc.ac.th/pms_graph.php?p=&people_dep_id=205&mod=&title=%CA%D2%A2%D2%C7%D4%AA%D2%AA%E8%D2%A7%CD%D4%E0%C5%E7%A1%B7%C3%CD%B9%D4%A1%CA%EC#data"
                                                     target="_blank" class="text-secondary font-weight-normal text-xs"
                                                     data-toggle="tooltip" data-original-title="Edit user">
-                                                    <img src="https://rms.trattc.ac.th/files/57767_21080114145526.jpg"
-                                                        class="avatar avatar-sm me-3">
+                                                    <img src="https://rms.trattc.ac.th/files/53606_25081414145754.jpg"
+                                                        class="avatar avatar-xl me-3">
                                                 </a>
 
                                             </div>
@@ -216,7 +216,7 @@
                                         <span class="badge badge-sm badge-secondary">Offline</span>
                                     </td>
                                     <td class="align-middle text-center">
-                                        <span class="text-secondary text-xs font-weight-normal">ครูผู้ช่วย</span>
+                                        <span class="text-secondary text-xs font-weight-normal">ครู</span>
                                     </td>
                                     <td class="align-middle">
                                         <a href="http://rms.trattc.ac.th/pms_graph.php?p=&people_dep_id=205&mod=&title=%CA%D2%A2%D2%C7%D4%AA%D2%AA%E8%D2%A7%CD%D4%E0%C5%E7%A1%B7%C3%CD%B9%D4%A1%CA%EC#data"
@@ -234,8 +234,8 @@
                                                 <a href="http://rms.trattc.ac.th/pms_graph.php?p=&people_dep_id=205&mod=&title=%CA%D2%A2%D2%C7%D4%AA%D2%AA%E8%D2%A7%CD%D4%E0%C5%E7%A1%B7%C3%CD%B9%D4%A1%CA%EC#data"
                                                     target="_blank" class="text-secondary font-weight-normal text-xs"
                                                     data-toggle="tooltip" data-original-title="Edit user">
-                                                    <img src="https://rms.trattc.ac.th/files/98789_17031923230518.jpg"
-                                                        class="avatar avatar-sm me-3">
+                                                    <img src="https://rms.trattc.ac.th/files/53606_25081416161801.png"
+                                                        class="avatar avatar-xl me-3">
                                                 </a>
 
                                             </div>

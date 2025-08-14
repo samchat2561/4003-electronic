@@ -12,10 +12,10 @@
             <div class="col-md-3">
                 <div class="card shadow p-2">
                     <div class="card-header p-0">
-                        <img src="https://rms.trattc.ac.th/files/98789_17031411113931.jpg" class="card-img-top" alt="img">
+                        <img src="https://rms.trattc.ac.th/files/53606_25081414142632.jpg" class="card-img-top" alt="img">
                     </div>
                     <div class="card-body text-center p-1">
-                        <span class="card-title" style="color: #FF8C00; font-size: 18px;"><i class="fa-solid fa-people-roof me-2"></i>นนายอนันต์ มีสรรพวงศ์</span>
+                        <span class="card-title" style="color: #FF8C00; font-size: 18px;"><i class="fa-solid fa-people-roof me-2"></i>นายอนันต์ มีสรรพวงศ์</span>
                         <p class="card-text font-weight-normal" style="color: #0B6BBB; font-size: 16px;">หัวหน้าแผนก สาขาวิชาช่างอิเล็กทรอนิกส์</p>
                     </div>
                 </div>
